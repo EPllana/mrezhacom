@@ -53,7 +53,7 @@ const Partners: React.FC = () => {
         <section className="py-2 md:py-2">
             <div className="container mx-auto px-4 text-center">
                 <p className="text-xl text-brand-text-light mb-12">
-                    Powering success for 5,000+ companies globally
+                    Powering success for 100+ companies globally
                 </p>
                  <div className="relative">
                      <div ref={sliderRef} className="keen-slider">

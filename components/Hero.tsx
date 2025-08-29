@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
             <div className="container mx-auto px-6 relative z-10">
                 <div className="flex justify-center mb-6">
                     <Pill icon={<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FF602A" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>}>
-                        Mrezha Serves 5,000+ Clients
+                        goMREZHA Serves 100+ Clients
                     </Pill>
                 </div>
                 <h1 className="text-4xl md:text-6xl lg:text-7xl font-extrabold text-white leading-tight mb-6">
@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
                         Start Your Project Now
                     </a>
                 </div>
-                 <p className="text-sm text-brand-text-light mt-4">✓ Trusted by 5000+ companies worldwide</p>
+                 <p className="text-sm text-brand-text-light mt-4">✓ Trusted by 100+ companies worldwide</p>
 
                 <div className="mt-16 relative">
                     <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1024&h=576&fit=crop&crop=entropy" alt="Team meeting" className="rounded-2xl mx-auto shadow-2xl shadow-brand-orange/10 border-2 border-brand-gray-light"/>

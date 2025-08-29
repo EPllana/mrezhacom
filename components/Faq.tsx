@@ -8,11 +8,11 @@ interface FaqItemProps {
 
 const faqs: FaqItemProps[] = [
     {
-        question: "What services does Mrezha offer?",
-        answer: "Mrezha offers a comprehensive suite of services including web design and development, brand identity and logo design, UI/UX design, content creation, SEO, and digital marketing. We provide end-to-end solutions to elevate your brand's digital presence."
+        question: "What services does goMREZHA offer?",
+        answer: "goMREZHA offers a comprehensive suite of services including web design and development, brand identity and logo design, UI/UX design, content creation, SEO, and digital marketing. We provide end-to-end solutions to elevate your brand's digital presence."
     },
     {
-        question: "What industries does Mrezha work with?",
+        question: "What industries does goMREZHA work with?",
         answer: "We work with a diverse range of industries, from tech startups and SaaS companies to e-commerce brands and established corporate clients. Our strategies are tailored to the unique challenges and opportunities of each sector."
     },
     {
@@ -20,11 +20,11 @@ const faqs: FaqItemProps[] = [
         answer: "A typical web design project takes between 4 to 8 weeks, depending on the complexity, number of pages, and specific features required. We establish a clear timeline during the initial discovery phase."
     },
     {
-        question: "Does Mrezha offer development along with design?",
+        question: "Does goMREZHA offer development along with design?",
         answer: "Absolutely. We are a full-service agency, which means we handle both the design (UI/UX) and the full-stack development to bring your vision to life as a fully functional, high-performing website or application."
     },
     {
-        question: "What is the typical cost of a project with Mrezha?",
+        question: "What is the typical cost of a project with goMREZHA?",
         answer: "Project costs vary based on scope and requirements. Our 'Basic Package' starts at $1,499. We recommend reaching out for a custom quote to get a precise estimate tailored to your specific needs."
     },
 ];

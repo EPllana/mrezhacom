@@ -21,7 +21,7 @@ const Logo: React.FC = () => (
                 </linearGradient>
             </defs>
         </svg>
-        <span className="text-2xl font-bold text-white tracking-wide">goMrezha</span>
+        <span className="text-2xl font-bold text-white tracking-wide">goMREZHA</span>
     </div>
 );
 

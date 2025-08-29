@@ -57,7 +57,7 @@ const Footer: React.FC = () => {
                     <div className="md:col-span-2 lg:col-span-1">
                         <Logo />
                         <p className="mt-4 text-brand-text-light max-w-xs">
-                            At Mrezha, we craft creative solutions that elevate brands. From web design to digital marketing to help you stand out and succeed.
+                            At goMrezha, we craft creative solutions that elevate brands. From web design to digital marketing to help you stand out and succeed.
                         </p>
                     </div>
                     
