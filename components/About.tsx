@@ -85,9 +85,9 @@ const About: React.FC = () => {
                         </p>
                         <div className="grid grid-cols-2 gap-8">
                             <AnimatedStatItem value={150} suffix="+" label="Projects Completed" />
-                            <AnimatedStatItem value={15} suffix="+" label="Years of Experience" />
+                            <AnimatedStatItem value={7} suffix="+" label="Years of Experience" />
                             <AnimatedStatItem value={100} suffix="+" label="Satisfied Clients" />
-                            <AnimatedStatItem value={20} suffix="+" label="Awards Won" />
+                            <AnimatedStatItem value={10} suffix="+" label="Awards Won" />
                         </div>
                     </div>
                     <div>
