@@ -48,7 +48,7 @@ const Team: React.FC = () => {
         { name: "Adem", role: "COO", imageUrl: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=200&h=200&fit=crop&crop=face" },
         { name: "Emily", role: "Creative Director", imageUrl: "https://images.unsplash.com/photo-1554151228-14d9def656e4?q=80&w=200&h=200&fit=crop&crop=face" },
         { name: "Alban", role: "Project Manager", imageUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&h=200&fit=crop&crop=face" },
-        { name: "Leotrim", role: "UI/UX Designer", imageUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200&h=200&fit=crop&crop=face" },
+        { name: "Leo", role: "UI/UX Designer", imageUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200&h=200&fit=crop&crop=face" },
         { name: "Leonita", role: "Front-End Developer", imageUrl: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&h=200&fit=crop&crop=face" },
     ];
 
