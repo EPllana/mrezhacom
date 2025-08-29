@@ -2,7 +2,7 @@ import React from 'react';
 import { useKeenSlider } from 'keen-slider/react';
 
 const PartnerLogo: React.FC<{ imageUrl: string; invert?: boolean }> = ({ imageUrl, invert }) => (
-    <div className="flex items-center justify-center h-40">
+    <div className="flex items-center justify-center h-52">
         <img 
             src={imageUrl} 
             alt="Partner logo" 
