@@ -96,7 +96,7 @@ const Footer: React.FC = () => {
             </div>
             <div className="border-t border-brand-gray-light py-6">
                 <div className="container mx-auto px-6 text-center text-brand-text-light">
-                    <p>&copy; Mrezha 2025. All rights reserved.</p>
+                    <p>&copy; goMREZHA 2025. All rights reserved.</p>
                 </div>
             </div>
         </footer>
