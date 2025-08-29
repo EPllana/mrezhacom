@@ -48,7 +48,7 @@ const Comparison: React.FC = () => {
                      <Pill icon={<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FF602A" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2L2 7V17L12 22L22 17V7L12 2Z"></path><path d="M12 12L22 7"></path><path d="M12 12V22"></path><path d="M12 12L2 7"></path><path d="M7 4.5L17 9.5"></path></svg>}>
                         Comparison
                     </Pill>
-                    <h2 className="text-3xl md:text-4xl font-bold text-white">Preferring Mrezha Over Competitors</h2>
+                    <h2 className="text-3xl md:text-4xl font-bold text-white">Preferring goMREZHA Over Competitors</h2>
                 </div>
                 <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
                     <div className="bg-brand-gray p-8 rounded-2xl border border-brand-gray-light">
@@ -58,7 +58,7 @@ const Comparison: React.FC = () => {
                         </ul>
                     </div>
                     <div className="bg-brand-gray p-8 rounded-2xl border border-brand-orange/50">
-                        <h3 className="text-2xl font-bold text-white mb-6">MREZHA</h3>
+                        <h3 className="text-2xl font-bold text-white mb-6">goMREZHA</h3>
                         <ul className="space-y-4">
                             {mrezha.map((item, index) => <ComparisonItem key={index} isPositive={true}>{item}</ComparisonItem>)}
                         </ul>
