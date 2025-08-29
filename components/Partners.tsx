@@ -50,7 +50,7 @@ const Partners: React.FC = () => {
     });
 
     return (
-        <section className="py-10 md:py-16">
+        <section className="py-2 md:py-2">
             <div className="container mx-auto px-4 text-center">
                 <p className="text-xl text-brand-text-light mb-12">
                     Powering success for 5,000+ companies globally
