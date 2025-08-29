@@ -44,14 +44,14 @@ const TeamMemberCard: React.FC<TeamMemberProps> = ({ name, role, imageUrl }) => 
 
 const Team: React.FC = () => {
     const teamMembers: TeamMemberProps[] = [
-        { name: "Ernis", role: "CEO", imageUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&h=200&fit=crop&crop=face" },
-        { name: "Adem", role: "COO", imageUrl: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=200&h=200&fit=crop&crop=face" },
+        { name: "Ernis", role: "CEO", imageUrl: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG1hbnxlbnwwfHwwfHx8MA%3D%3D" },
+        { name: "Adem", role: "COO", imageUrl: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1hbiUyMHBvcnRyYWl0fGVufDB8fDB8fHww" },
         { name: "Emily", role: "Creative Director", imageUrl: "https://images.unsplash.com/photo-1554151228-14d9def656e4?q=80&w=200&h=200&fit=crop&crop=face" },
         { name: "Alban", role: "Project Manager", imageUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&h=200&fit=crop&crop=face" },
-        { name: "Leo", role: "UI/UX Designer", imageUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200&h=200&fit=crop&crop=face" },
-        { name: "Leonita", role: "Front-End Developer", imageUrl: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&h=200&fit=crop&crop=face" },
+        { name: "Leo", role: "UI/UX Designer", imageUrl: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&h=200&fit=crop&crop=face" },
+        { name: "Leonita", role: "Front-End Developer", imageUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200&h=200&fit=crop&crop=face" },
     ];
-
+    
     return (
         <section className="py-20 md:py-28">
             <div className="container mx-auto px-6">
